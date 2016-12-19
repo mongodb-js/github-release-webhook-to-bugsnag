@@ -1,7 +1,7 @@
 {
   "name": "github-release-webhook-to-bugsnag",
   "description": "Notify Bugsnag of a new deployment when a new GitHub release is published.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "fmt": "mongodb-js-fmt",
     "check": "mongodb-js-precommit",
